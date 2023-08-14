@@ -1,0 +1,11 @@
+{
+    "date": "2023-08-14 20:00",
+    "url": "https://gitee.com/baka_hs/wonder-update-api/releases/download/v1.2.7/launcher.exe",
+    "message": [
+        "修复一处图标问题",
+        "修复了部分按钮锯齿的问题",
+        "修复了内存设置滑条的问题",
+        "修复了一处动画鬼畜的问题",
+        "修复了可以启动没有安装好的游戏核心的问题"
+    ]
+}
